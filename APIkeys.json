@@ -1,0 +1,7 @@
+{
+	"OMDBapi": "provide OMDBapi",
+	"twitter-api-key": "provide twitter-api-key",
+	"twitter-api-secret-key": "provide twitter-api-secret-key",
+	"twitter-access-token": "provide twitter-access-token",
+	"twitter-access-token-secret": "provide twitter-access-token-secret"
+}
